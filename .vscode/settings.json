@@ -1,0 +1,5 @@
+{
+        "python.venvPath": "${workspaceFolder}/mynewenv",
+        "python.pythonPath": "${workspaceFolder}/mynewenv/bin/python",
+        "terminal.integrated.shellArgs.osx": ["-l", "-c", "source mynewenv/bin/activate"]
+}

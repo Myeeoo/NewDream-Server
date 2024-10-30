@@ -1,0 +1,8 @@
+.idea/
+**/__pycache__/*
+*.mo
+__pycache__/*
+logs/*
+static/*
+common/utils/ip/geoip/GeoLite2-City.mmdb
+common/utils/ip/ipip/ipipfree.ipdb
