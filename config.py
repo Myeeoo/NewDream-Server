@@ -41,7 +41,7 @@ REDIS_PASSWORD = "nineven"
 
 # 需要将创建的应用写到里面
 XADMIN_APPS = [
-    'demo.apps.DemoConfig',
+    'demo.apps.DemoConfig','students.apps.StudentsConfig'
 ]
 
 # 速率限制配置

@@ -89,7 +89,6 @@ class DbAuditModel(DbBaseModel):
     class Meta:
         abstract = True
 
-
 def upload_directory_path(instance, filename):
     prefix = filename.split('.')[-1]
     tmp_name = f"{filename}_{time.time()}"
